@@ -15,3 +15,8 @@ docx2txt
 ```
 ##USE OpenAI Key
 ```
+```
+create one file with a .env file
+.env
+where you will save your OPENAI_API_KEY,PINECONE_API_KEY, iNDEXES
+```
